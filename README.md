@@ -29,6 +29,7 @@ Articles:
 Tools:
 - Tool AI Fairness 360: http://aif360.mybluemix.net/data
 - Tool What-If-Tool: https://pair-code.github.io/what-if-tool/
+- Advanced visualizations to inspect AI models, their error/bias and their explanations: https://trustmlvis.lnu.se/
 
 Well-known cases:
 - Highly recommended! Case of bias in text processing, with python code: http://blog.conceptnet.io/posts/2017/how-to-make-a-racist-ai-without-really-trying/
