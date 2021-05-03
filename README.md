@@ -19,7 +19,7 @@ In this workshop, we introduce the basic concepts & methods needed to inspect cl
 3. https://colab.research.google.com/drive/1-I2y9J9TkLII1z2GoQD9EhYoHO5gIcKY?usp=sharing
 
 ## Video record
-Will be available within 1-2 weeks after the event
+[Easy Fairish: Basics of Classification and Bias](https://bit.ly/3bfcOOH)
 
 ## Additional materials
 Articles:
